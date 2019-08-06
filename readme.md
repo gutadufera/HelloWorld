@@ -1,1 +1,1 @@
-## This programs displays hgello world to the console.
+## This programs displays hello world to the console.
